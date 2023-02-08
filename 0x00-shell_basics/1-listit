@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --width=1
+ls -X --width=1
